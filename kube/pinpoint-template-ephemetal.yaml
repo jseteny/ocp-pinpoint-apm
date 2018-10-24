@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Template
 labels:
-  template: pinpoint-apm-ephemeral
+  template: pinpoint-apm-ephemeral-2
 message: Pinpoint APM Ephemeral
 metadata:
   annotations:
