@@ -8,7 +8,7 @@ metadata:
     description: Pinpoint APM Ephemeral
     iconClass: icon-jenkins
     tags: pinpoint
-  name: pinpoint-ephemeral-template
+  name: pinpoint-ephemeral-template-2
   namespace: openshift
 objects:
 - apiVersion: v1
